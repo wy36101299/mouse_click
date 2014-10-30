@@ -2,7 +2,7 @@ from pymouse import PyMouse
 from time import sleep
 
 m = PyMouse()
-sleep(5)
+sleep(5) #預設5秒準備到要連點的畫面
 x=969
 y=581
 a = 1
